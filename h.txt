@@ -1,0 +1,17 @@
+Adaptive Software Engineering
+Deploy files from git bash tool to github repository
+project name - library management sytem1
+mkdir h
+cd h
+h>
+git clone https://github.com/sriharshaklu/library-management-system1.git
+cd librarymanagement system1
+git init
+git status
+notepad hello.text
+git add hello.txt
+git status
+git commit "version1"
+git push
+git config --global user.name
+git config --global user.email
